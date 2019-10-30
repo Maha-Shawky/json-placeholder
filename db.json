@@ -1,17 +1,17 @@
 {
-  "whether": [
+  "weather": [
     {
-      "id": "London",
+      "id": "london",
       "temperature": 10,
       "status": "rainy"
     },
     {
-      "id": "NY",
+      "id": "ny",
       "temperature": 30,
       "status": "sunny"
     },
      {
-      "id": "Tokyo",
+      "id": "tokyo",
       "temperature": 20,
       "status": "cloudy"
     }
