@@ -1,0 +1,19 @@
+{
+  "whether": [
+    {
+      "id": "London",
+      "temperature": 10,
+      "status": rainy
+    },
+    {
+      "id": "NY",
+      "temperature": 30,
+      "status": sunny
+    },
+     {
+      "id": "Tokyo",
+      "temperature": 20,
+      "status": cloudy
+    }
+  ],
+}
